@@ -43,8 +43,8 @@ You must have Node.js installed on your machine.
 Follow these steps to run the application.
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/live-bookings-viewer.git
-cd live-bookings-viewer
+git clone https://github.com/Dues-ExMachina/Live-Bookings-Viewer.git
+cd Live-Bookings-Viewer
 ```
 ### 2. Install Backend Dependencies
 ```bash
