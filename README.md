@@ -1,5 +1,5 @@
 # Live Bookings Viewer
-This project is a comprehensive full-stack, real-time "Live Bookings" viewer. It is designed for administrators at partner venues to monitor and confirm incoming bookings as they happen. The application features a Node.js backend that simulates new bookings and a vanilla JavaScript frontend that displays them instantaneously without requiring a page refresh.
+This project is a comprehensive full-stack, real-time "Live Bookings" viewer. The application features a Node.js backend that simulates new bookings and a vanilla JavaScript frontend that displays them instantaneously without requiring a page refresh.
 
 
 # Tech Stack
